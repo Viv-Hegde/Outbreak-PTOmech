@@ -1,7 +1,5 @@
-# OutbreakPTO-Prototype
+# Outbreak-PTO-mechanics
 
-too lazy to write description todo: add description
-
-Play the WebGL build [here](https://ringman3640.github.io/OutbreakPTO-Prototype/Build/WebGL/).
-
-Download the PC build [here](https://github.com/Ringman3640/OutbreakPTO-Prototype/raw/main/Build/PC.zip).
+Alternate Mechanics repository for Outbreak: PTO
+This repository consists of all basic game mechanics used by the game Outbreak: PTO
+Please click [here](https://viv-hegde.github.io/OutbreakPTO-Website/index.html) to visit our game website.
